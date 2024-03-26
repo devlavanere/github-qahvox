@@ -1,0 +1,27 @@
+.mat-card-container {
+  background-color: #e8f0ee;
+  border: 1px solid #e8f0ee;
+  box-shadow: 20px 20px #b1dacf;
+  max-width: 600px;
+}
+
+.mat-card-input {
+  display: flex;
+  gap: 5px;
+}
+
+.mat-container-button {
+  text-align: center;
+}
+
+.mat-button:hover {
+  background: aliceblue;
+  color: darkblue;
+  transition: 0.5;
+}
+
+.mat-card-simples {
+  max-width: 300px;
+  background-color: aliceblue;
+  margin-top: 10px;
+}
